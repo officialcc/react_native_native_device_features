@@ -31,7 +31,8 @@
         {
           "cameraPermission": "The app needs access to device camera to take photos of your Favorite Places."
         }
-      ]
+      ],
+      "expo-sqlite"
     ]
   }
 }
